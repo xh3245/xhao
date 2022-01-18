@@ -5,6 +5,7 @@
 int main(void)
 {
 printf("555\n");
+printf("char\n");
 return 0;
 
 }
