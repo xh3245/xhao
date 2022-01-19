@@ -38,5 +38,9 @@ printf("555\n");
 ```
 ##超链接
 
-[bi哩哔哩](https://www.bilibili.com "跳转到b站")
+[bi哩哔哩](https://www.bilibili.com "跳转到b站"
+
+
+##插入图片
+![背景截图](C:/Users/hao/Desktop)
 
