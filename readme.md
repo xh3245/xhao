@@ -42,5 +42,6 @@ printf("555\n");
 
 
 ##插入图片
-![背景截图](C:/Users/hao/Desktop/123)
+![背景截图](https://seikim.com/i/2022/01/19/r1py95.png)
+
 
